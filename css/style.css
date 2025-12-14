@@ -513,7 +513,6 @@ body.menu-active {
 }
 
 .card {
-  max-width: 290px;
   width: 100%;
   border-radius: 20px;
   background-color: #d8d8d8;
